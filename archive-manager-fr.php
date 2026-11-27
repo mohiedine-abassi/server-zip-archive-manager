@@ -5,6 +5,7 @@ declare(strict_types=1);
  * Archive Manager - Vos fichiers, sur votre serveur
  *
  * @package    ServerArchiveManager
+ * @version    <v1 class="0 0"></v1>
  * @author     Mohieddine ABASSI <mohiedineabassi@gmail.com>
  * @link       https://github.com/mohiedine-abassi
  * @copyright  2026 Mohieddine ABASSI
